@@ -1,15 +1,18 @@
 # Win11-Cursor
 
-- There is no permission (from author) to make this project, its not legal, if you want legal then buy the cursors pack here:
-  <https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-HD-v2-890672103>
+> This is 🚫 illegal. It can be deleted anytime.
 
-- And if you do not want to buy then you can also download the free one but [not colourful]:
-  <https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-v2-886489356>
+## Preview
 
-> Note: This is illegal repo, so this github repo can be deleted anytime.. Download fast as you can.
+![cursor-preview](./Win11%20Cursor%20Concept%20v2.3%20Pro/Preview.jpg)
 
-`1` Install the default cursor by 'Install.inf'
+- **Orginal Pro Version Cursors pack here:** [Deviantart/JepriCreations/Win11.CC.HD.v2](https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-HD-v2-890672103)
 
-`2` Read 'Read this.pdf' file to install Additional "Busy & Working" animated colorful cursors.
+- **Orginal Free Version but `not colourful`:**
+  [Deviantart/JepriCreations/Win11.CC.v2](https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-Concept-v2-886489356)
+
+`1` Install the default cursor by **Install.inf**
+
+`2` Read **Read this.pdf** file to install Additional **Busy & Working** animated colorful cursors.
 
 `3` Enjoy!
